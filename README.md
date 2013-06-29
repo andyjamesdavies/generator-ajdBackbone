@@ -1,6 +1,4 @@
 # Generator-ajdbackbone
-[![Build Status](https://secure.travis-ci.org/someuser/generator-ajdbackbone.png?branch=master)](https://travis-ci.org/someuser/generator-ajdbackbone)
-
 A generator for Yeoman.
 
 ## Getting started
